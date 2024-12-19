@@ -61,8 +61,8 @@ Based in **[Karachi]**, I’m a passionate full-stack developer dedicated to cra
 ### 📫 Let's Connect!
 I’m always open to collaboration and new opportunities. Feel free to reach out!  
 - ✉️ **Email:** [hammadnizam65@gmail.com]  
-- 🌐 **LinkedIn:** [https://x.com/Hammadbyte]  
-- 🐦 **Twitter:** [Your Twitter URL]  
+- 🌐 **LinkedIn:** []  
+- 🐦 **Twitter:** [https://x.com/Hammadbyte]  
 
 ---
 
