@@ -3,8 +3,8 @@
 
 # 🌟 Welcome to My GitHub Profile! 🌟
 
-## ✨ **Muhammad Hammad** ✨  
-### *Full-Stack Developer | Tech Innovator | Creative Problem Solver*
+## ✨ **Full-Stack Developer** ✨  
+### * Tech Innovator | Creative Problem Solver*
 
 </div>
 
