@@ -12,7 +12,7 @@
 
 <div align="center">
 
-![My Image](https://www.shutterstock.com/image-photo/igniting-innovation-harnessing-power-coding-600nw-2425426569.jpg) <!-- Replace with an actual image URL for a more attractive look -->
+![My Image](IMG-20250525-WA0003.jpg) <!-- Replace with an actual image URL for a more attractive look -->
 
 </div>
 
