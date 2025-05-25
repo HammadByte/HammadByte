@@ -12,7 +12,7 @@
 
 <div align="center">
 
-![My Image](IMG-20250525-WA0003.jpg) <!-- Replace with an actual image URL for a more attractive look -->
+![My Image](https://hammadbyte.netlify.app/my%20img.jpeg) <!-- Replace with an actual image URL for a more attractive look -->
 
 </div>
 
