@@ -47,19 +47,22 @@ Based in **[Karachi]**, I’m a passionate full-stack developer dedicated to cra
 ---
 
 ### 💻 Notable Projects
-- **[Prime Design Crew](https://pdrdesign.netlify.app/)**  
-  *🌐 A revolutionary application that [brief description]. Technologies: [Tech Stack].*
-
-- **[Prime Wireless Hub](https://primewirelesshub.netlify.app/)**  
-  *✨ An innovative tool designed for [brief description]. Built with: [Tech Stack].*
+- **[Portfolio](https://hammadbyte.netlify.app/)**  
+  *🌐 A revolutionary application that [MERN Stack Developer | Ai-Engineer | Chatbot Specialist]. Technologies: [Tech Stack].*
 
 - **[Ai-Portal](https://aiportal.netlify.app/)**  
-  *🚀 A comprehensive solution for [brief description]. Developed using: [Tech Stack].*
+  *🚀 A comprehensive solution for [AI-Powered Digital Identity & Support Platform]. Developed using: [Tech Stack].*
 
+- **[Prime Design Crew](https://pdrdesign.netlify.app/)**  
+  *🚀 A comprehensive solution for [Design custom logos for your brand to give it a premium look!]. Developed using: [Tech Stack].*    
+  
+- **[Prime Wireless Hub](https://primewirelesshub.netlify.app/)**  
+  *✨ An innovative tool designed for [Purchasing TV and internet services has never been simpler.]. Built with: [Tech Stack].*
 ---
 
 ### 📫 Let's Connect!
 I’m always open to collaboration and new opportunities. Feel free to reach out!  
+- 🚀 **Youtube:** [https://youtube.com/@hammadbyte]  
 - ✉️ **Email:** [hammadbyte@gmail.com]  
 - 🌐 **LinkedIn:** [https://www.linkedin.com/in/hammadbyte/]  
 - 🐦 **Twitter:** [https://x.com/Hammadbyte]  
