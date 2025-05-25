@@ -53,7 +53,7 @@ Based in **[Karachi]**, I’m a passionate full-stack developer dedicated to cra
 - **[Prime Wireless Hub](https://primewirelesshub.netlify.app/)**  
   *✨ An innovative tool designed for [brief description]. Built with: [Tech Stack].*
 
-- **[Project Name 3](link-to-your-project3)**  
+- **[Ai-Portal](https://aiportal.netlify.app/)**  
   *🚀 A comprehensive solution for [brief description]. Developed using: [Tech Stack].*
 
 ---
