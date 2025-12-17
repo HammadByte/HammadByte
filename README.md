@@ -26,13 +26,13 @@ Based in **[Karachi]**, I’m a passionate full-stack developer dedicated to cra
 ### 💼 Technical Skills
 #### **Frontend Development:**
 - **Languages:** HTML, CSS, JavaScript
-- **Frameworks/Libraries:** React, Angular, Vue.js
-- **Styling Frameworks:** Bootstrap, Tailwind CSS, Sass
+- **Frameworks/Libraries:** React, Next.js
+- **Styling Frameworks:** Bootstrap, Tailwind CSS, Material UI
 
 #### **Backend Development:**
-- **Languages:** Node.js, Python, Java
-- **Frameworks:** Express, Django, Spring
-- **Databases:** MongoDB, PostgreSQL, MySQL
+- **Languages:** Node.js, Python,
+- **Frameworks:** Express, Prisma
+- **Databases:** MongoDB, PostgreSQL
 
 #### **DevOps & Cloud:**
 - **Tools:** Docker, AWS, Git
@@ -47,7 +47,7 @@ Based in **[Karachi]**, I’m a passionate full-stack developer dedicated to cra
 ---
 
 ### 💻 Notable Projects
-- **[Portfolio](https://hammadbyte.netlify.app/)**  
+- **[Portfolio](https://hammadbyte.vercel.app/)**  
   *🌐 A revolutionary application that [MERN Stack Developer | Ai-Engineer | Chatbot Specialist]. Technologies: [Tech Stack].*
 
 - **[Ai-Portal](https://aiportal.netlify.app/)**  
