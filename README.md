@@ -2,11 +2,15 @@
 
 <div align="center">
 
-# 🌟 Hammad Byte  
-### Full Stack Developer | Tech Innovator | Creative Problem Solver
+<!-- Animated Title -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=🌟+Hammad+Byte;💻+Full+Stack+Developer;🚀+Tech+Innovator;🎨+Creative+Problem+Solver" alt="Typing SVG" />
+</h1>
 
+<!-- Profile Banner with Animation -->
 <img src="https://hammadbyte.netlify.app/my%20img.jpeg" alt="Profile Banner" width="100%" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,212,255,0.3);" />
 
+<!-- Animated Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/🚀_Full_Stack-Developer-00D4FF?style=for-the-badge&logo=stackoverflow&logoColor=white" />
   <img src="https://img.shields.io/badge/💻_MERN-Stack-00D4FF?style=for-the-badge&logo=javascript&logoColor=white" />
@@ -71,16 +75,23 @@ I'm a passionate **Full Stack Developer** based in **Karachi, Pakistan**, dedica
 
 <div align="center">
 
-<!-- GitHub Stats - Simple and Working -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hammadbyte&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hammadbyte&layout=compact&langs_count=8&theme=radical" />
-</div>
+<!-- GitHub Stats Cards -->
+<a href="https://github.com/hammadbyte">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hammadbyte&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=20&bg_color=30,0f0c29,302b63,24243e" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hammadbyte&layout=compact&langs_count=8&theme=radical&border_radius=20&bg_color=30,302b63,24243e,0f0c29" />
+</a>
 
-<!-- GitHub Stats Card - Alternative -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hammadbyte&theme=radical" />
-</div>
+<!-- GitHub Streak Stats -->
+<p align="center">
+  <a href="https://github.com/hammadbyte">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=hammadbyte&theme=radical&border_radius=20&background=0f0c29&fire=00D4FF&ring=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak" />
+  </a>
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hammadbyte&theme=react-dark&bg_color=0f0c29&hide_border=true&area=true&area_color=00D4FF&line=9d4edd&point=ff6b6b&custom_title=My%20Contribution%20Graph" alt="Activity Graph" />
+</p>
 
 </div>
 
@@ -105,6 +116,7 @@ I'm a passionate **Full Stack Developer** based in **Karachi, Pakistan**, dedica
 
 <div align="center">
 
+<!-- Animated Learning Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -120,21 +132,22 @@ I'm a passionate **Full Stack Developer** based in **Karachi, Pakistan**, dedica
 
 <div align="center">
 
+<!-- Animated Social Links -->
 <p align="center">
   <a href="https://youtube.com/@hammadbyte">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&label=Subscribe" />
   </a>
   <a href="https://www.linkedin.com/in/hammadbyte/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=Connect" />
   </a>
   <a href="https://x.com/Hammadbyte">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&label=Follow" />
   </a>
   <a href="mailto:hammadbyte@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Email%20Me" />
   </a>
   <a href="https://hammadbyte.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&label=Visit%20Portfolio" />
   </a>
 </p>
 
@@ -151,6 +164,7 @@ I'm a passionate **Full Stack Developer** based in **Karachi, Pakistan**, dedica
 
 <div align="center">
 
+<!-- Animated Fun Facts -->
 <table align="center">
   <tr>
     <td align="center">
@@ -185,14 +199,18 @@ I'm a passionate **Full Stack Developer** based in **Karachi, Pakistan**, dedica
 
 ## 🚀 Ready to Build the Future?
 
+<!-- Animated Quote -->
+<div align="center">
+  
 > *"First, solve the problem. Then, write the code." - John Johnson*
 
+</div>
+
 <p align="center">
-  <b>Let's create something amazing together!</b><br/>
-  <b>Open for collaborations and new opportunities!</b><br/>
-  <b>Building the future, one commit at a time!</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Let's+create+something+amazing+together!;Open+for+collaborations+and+new+opportunities!;Building+the+future,+one+commit+at+a+time!" alt="Typing SVG" />
 </p>
 
+<!-- Star Animation -->
 <p align="center">
   <img src="https://img.shields.io/badge/⭐_Star_My_Repos-If_You_Like_My_Work-00D4FF?style=for-the-badge" />
 </p>
@@ -203,13 +221,11 @@ I'm a passionate **Full Stack Developer** based in **Karachi, Pakistan**, dedica
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=100&section=footer&text=Thanks+For+Visiting!&fontSize=30&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=100&section=footer&text=Thanks+For+Visiting!&fontSize=30&fontColor=ffffff&animation=fadeIn" />
 
 </div>
 
 *Based in Karachi, Pakistan • Last Updated: January 2024*
 
-<!-- Simple GitHub Stats Trophy -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hammadbyte&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
+<!-- Animation for GitHub Profile -->
+![Snake animation](https://github.com/hammadbyte/hammadbyte/blob/output/github-contribution-grid-snake.svg)
