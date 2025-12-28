@@ -171,7 +171,7 @@ I'm a passionate **Full Stack Developer** based in **Karachi, Pakistan**, dedica
       <br/>
       <b>Cups of Coffee</b>
       <br/>
-      <img src="https://img.shields.io/badge/4000+-Consumed-00D4FF?style=flat-square" />
+      <img src="https://img.shields.io/badge/482+-Consumed-00D4FF?style=flat-square" />
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
