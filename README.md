@@ -2,10 +2,8 @@
 
 <div align="center">
 
-<!-- Animated Title -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=🌟+Hammad+Byte;💻+Full+Stack+Developer;🚀+Tech+Innovator;🎨+Creative+Problem+Solver" alt="Typing SVG" />
-</h1>
+# 🌟 Hammad Byte  
+### Full Stack Developer | Tech Innovator | Creative Problem Solver
 
 <!-- Profile Banner with Animation -->
 <img src="https://hammadbyte.netlify.app/my%20img.jpeg" alt="Profile Banner" width="100%" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,212,255,0.3);" />
@@ -75,25 +73,19 @@ I'm a passionate **Full Stack Developer** based in **Karachi, Pakistan**, dedica
 
 <div align="center">
 
-<!-- GitHub Stats Cards -->
-<a href="https://github.com/hammadbyte">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hammadbyte&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=20&bg_color=30,0f0c29,302b63,24243e" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hammadbyte&layout=compact&langs_count=8&theme=radical&border_radius=20&bg_color=30,302b63,24243e,0f0c29" />
-</a>
+<!-- GitHub Stats - Simple and Working -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hammadbyte&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hammadbyte&layout=compact&langs_count=8&theme=radical" />
+</div>
 
-<!-- GitHub Streak Stats -->
-<p align="center">
-  <a href="https://github.com/hammadbyte">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=hammadbyte&theme=radical&border_radius=20&background=0f0c29&fire=00D4FF&ring=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak" />
-  </a>
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hammadbyte&theme=react-dark&bg_color=0f0c29&hide_border=true&area=true&area_color=00D4FF&line=9d4edd&point=ff6b6b&custom_title=My%20Contribution%20Graph" alt="Activity Graph" />
-</p>
+<!-- GitHub Stats Card - Alternative -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hammadbyte&theme=radical" />
+</div>
 
 </div>
+
 
 ---
 
@@ -172,21 +164,21 @@ I'm a passionate **Full Stack Developer** based in **Karachi, Pakistan**, dedica
       <br/>
       <b>Lines of Code</b>
       <br/>
-      <img src="https://img.shields.io/badge/100K+-Written-00D4FF?style=flat-square" />
+      <img src="https://img.shields.io/badge/1024K+-Written-00D4FF?style=flat-square" />
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/coffeescript/coffeescript-original.svg" width="40" />
       <br/>
       <b>Cups of Coffee</b>
       <br/>
-      <img src="https://img.shields.io/badge/1000+-Consumed-00D4FF?style=flat-square" />
+      <img src="https://img.shields.io/badge/4000+-Consumed-00D4FF?style=flat-square" />
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
       <br/>
       <b>Git Commits</b>
       <br/>
-      <img src="https://img.shields.io/badge/500+-Made-00D4FF?style=flat-square" />
+      <img src="https://img.shields.io/badge/400+-Made-00D4FF?style=flat-square" />
     </td>
   </tr>
 </table>
@@ -202,7 +194,7 @@ I'm a passionate **Full Stack Developer** based in **Karachi, Pakistan**, dedica
 <!-- Animated Quote -->
 <div align="center">
   
-> *"First, solve the problem. Then, write the code." - John Johnson*
+> *"First, solve the problem. Then, write the code." - Hammad Byte*
 
 </div>
 
@@ -225,7 +217,4 @@ I'm a passionate **Full Stack Developer** based in **Karachi, Pakistan**, dedica
 
 </div>
 
-*Based in Karachi, Pakistan • Last Updated: January 2024*
-
-<!-- Animation for GitHub Profile -->
-![Snake animation](https://github.com/hammadbyte/hammadbyte/blob/output/github-contribution-grid-snake.svg)
+*Based in Karachi, Pakistan • Last Updated: December 2025*
