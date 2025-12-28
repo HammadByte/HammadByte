@@ -72,8 +72,8 @@ Simplified TV and internet service purchasing platform with seamless user experi
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hammadnizam&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hammadnizam&layout=compact&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hammadbyte&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hammadbyte&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
