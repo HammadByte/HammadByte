@@ -3,7 +3,7 @@
 <div align="center">
 
 # 🌟 Hammad Byte  
-### Full Stack Developer | Tech Innovator | Creative Problem Solver
+### Full Stack Developer | Generative AI | Creative Problem Solver
 
 <!-- Profile Banner with Animation -->
 <img src="https://hammadbyte.netlify.app/my%20img.jpeg" alt="Profile Banner" width="100%" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,212,255,0.3);" />
@@ -217,4 +217,4 @@ I'm a passionate **Full Stack Developer** based in **Karachi, Pakistan**, dedica
 
 </div>
 
-*Based in Karachi, Pakistan • Last Updated: December 2025*
+*Based in Karachi, Pakistan • Last Updated: January 2026*
